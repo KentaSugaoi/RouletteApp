@@ -37,6 +37,7 @@ public class MainActivity extends ActionBarActivity {
 
 		//開始ボタン
 		if (id == R.id.startButton){
+			// kaii test
 			//view.startRotateCircle();
 		}
 
