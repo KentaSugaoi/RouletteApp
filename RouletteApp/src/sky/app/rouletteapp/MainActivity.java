@@ -1,4 +1,4 @@
-package com.example.rouletteapp;
+package sky.app.rouletteapp;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
